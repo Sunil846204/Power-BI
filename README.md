@@ -1,3 +1,2 @@
 # Power-BI
 “Power BI practice projects, notes, and sample dashboards for data analysis and visualization.”
-Interactive HR Analytics dashboard built with Power BI, showcasing employee demographics, attendance trends, department-wise performance, salary and age distribution, and education-level insights. Includes visualizations for absenteeism, leave patterns, and workforce composition across IT, Operations, Sales, HR, and Finance departments. Designed to support data-driven decision-making in human resource management.
